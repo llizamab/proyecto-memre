@@ -1,0 +1,7 @@
+*******************************************
+2013-07-02 12:38:28
+Fichero : C:\xampp\htdocs\proyecto-memre\Fuentes\Desarrollo\config\parametros.php
+Linea   : 27
+Mensaje : Error Processing Request
+#0 {main}
+*******************************************

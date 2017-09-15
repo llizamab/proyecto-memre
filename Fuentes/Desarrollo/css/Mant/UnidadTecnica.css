@@ -1,0 +1,39 @@
+/* Estilos para el mantenedor de perfiles */
+
+#FormRegPerIDPer, #FormRegPerNomPer{
+	background: #9A9A9A;
+	color: black;
+	width: 100%;
+}
+
+#tablaMPerfiles{
+	font-family: Arial, Verdana, sans-serif;
+	font-weight:bold;
+	font-size: 13px;
+	margin: 3px auto 3px auto;
+	float: left;
+	width: 90%;
+}
+
+#botonesFormRegMPer {
+	float: left;
+	right: -10px;
+
+}
+#FormRegPerDesc{
+	 resize: none;
+	 width: 100%;
+	 height: 60px;
+}
+#contTablaPer{
+	padding-top: 1em;
+	height: 30px;
+}
+/* Para marcar la seleccionada en el datatable */
+#tablaPerfiles tr.even.row_selected td {
+	background-color: gray;
+}
+
+#tablaPerfiles tr.odd.row_selected td {
+	background-color: gray;
+}

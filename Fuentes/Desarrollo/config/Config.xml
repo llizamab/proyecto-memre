@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Conexion>
+	<Host>localhost</Host>
+	<User>memre</User>
+	<Password>memre</Password>
+	<BBDD>memre</BBDD>
+	<depurarSQL>0</depurarSQL>
+	<depurarDUMP>0</depurarDUMP>
+	<rutaExcel>./archivos</rutaExcel>
+	<COL_FUENTE>FUENTE</COL_FUENTE>
+	<COL_BIP>BIP</COL_BIP>
+	<COL_ETAPA>ETAPA</COL_ETAPA>
+	<COL_CUENTA>CUENTA</COL_CUENTA>
+	<COL_NOMBRE>NOMBRE</COL_NOMBRE>
+	<COL_ENERO>ENERO</COL_ENERO>
+	<COL_FEBRERO>FEBRERO</COL_FEBRERO>
+	<COL_MARZO>MARZO</COL_MARZO>
+	<COL_ABRIL>ABRIL</COL_ABRIL>
+	<COL_MAYO>MAYO</COL_MAYO>
+	<COL_JUNIO>JUNIO</COL_JUNIO>
+	<COL_JULIO>JULIO</COL_JULIO>
+	<COL_AGOSTO>AGOSTO</COL_AGOSTO>
+	<COL_SEPTIEMBRE>SEPTIEMBRE</COL_SEPTIEMBRE>
+	<COL_OCTUBRE>OCTUBRE</COL_OCTUBRE>
+	<COL_NOVIEMBRE>NOVIEMBRE</COL_NOVIEMBRE>
+	<COL_DICIEMBRE>DICIEMBRE</COL_DICIEMBRE>
+	<COL_UNIDAD_TECNICA>UNIDAD TECNICA</COL_UNIDAD_TECNICA>
+	<COL_ANNIO>ANNIO</COL_ANNIO>
+	<MSJ_FUENTE>FUENTE (Caracteres), longitud maxima 4</MSJ_FUENTE>
+	<MSJ_BIP>BIP (Numerico), mayor a 0 sin decimales, longitud maxima 10</MSJ_BIP>
+	<MSJ_ETAPA>ETAPA (Caracteres), longitud maxima 255</MSJ_ETAPA>
+	<MSJ_CUENTA>CUENTA (Numerico), mayor a 0 sin decimales, longitud maxima 10</MSJ_CUENTA>
+	<MSJ_NOMBRE>NOMBRE (Caracteres), longitud maxima 255</MSJ_NOMBRE>
+	<MSJ_ENERO>ENERO (Numerico), mayor a 0 sin decimales, longitud maxima 10</MSJ_ENERO>
+	<MSJ_FEBRERO>FEBRERO (Numerico), mayor a 0 sin decimales, longitud maxima 10</MSJ_FEBRERO>
+	<MSJ_MARZO>MARZO (Numerico), mayor a 0 sin decimales, longitud maxima 10</MSJ_MARZO>
+	<MSJ_ABRIL>ABRIL (Numerico), mayor a 0 sin decimales, longitud maxima 10</MSJ_ABRIL>
+	<MSJ_MAYO>MAYO (Numerico), mayor a 0 sin decimales, longitud maxima 10</MSJ_MAYO>
+	<MSJ_JUNIO>JUNIO (Numerico), mayor a 0 sin decimales, longitud maxima 10</MSJ_JUNIO>
+	<MSJ_JULIO>JULIO (Numerico), mayor a 0 sin decimales, longitud maxima 10</MSJ_JULIO>
+	<MSJ_AGOSTO>AGOSTO (Numerico), mayor a 0 sin decimales, longitud maxima 10</MSJ_AGOSTO>
+	<MSJ_SEPTIEMBRE>SEPTIEMBRE (Numerico), mayor a 0 sin decimales, longitud maxima 10</MSJ_SEPTIEMBRE>
+	<MSJ_OCTUBRE>OCTUBRE (Numerico), mayor a 0 sin decimales, longitud maxima 10</MSJ_OCTUBRE>
+	<MSJ_NOVIEMBRE>NOVIEMBRE (Numerico), mayor a 0 sin decimales, longitud maxima 10</MSJ_NOVIEMBRE>
+	<MSJ_DICIEMBRE>DICIEMBRE (Numerico), mayor a 0 sin decimales, longitud maxima 10</MSJ_DICIEMBRE>
+	<MSJ_UNIDAD_TECNICA>UNIDAD TECNICA (Caracteres), longitud maxima 255</MSJ_UNIDAD_TECNICA>
+	<MSJ_ANNIO>ANNIO (Numerico), mayor a 0 sin decimales, longitud maxima 4</MSJ_ANNIO>
+</Conexion>
